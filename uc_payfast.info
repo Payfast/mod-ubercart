@@ -1,0 +1,15 @@
+name = Payfast
+description = Integrates Payfast payment gateway.
+
+dependencies[] = uc_payment
+
+package = Ubercart - payment
+
+core = 6.x
+version = 0.1-dev
+; Information added by drupal.org packaging script on 2011-08-29
+version = "6.x-1.x-dev"
+core = "6.x"
+project = "uc_payfast"
+datestamp = "1314620864"
+
