@@ -1,6 +1,6 @@
 PayFast Ubercart Module v1.00 for Ubercart
 --------------------------------------------------------------
-Copyright © 2012-16 PayFast (Pty) Ltd
+Copyright © 2012-2016 PayFast (Pty) Ltd
 
 LICENSE:
 
